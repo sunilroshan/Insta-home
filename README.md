@@ -31,7 +31,8 @@ This is an Instagram Home_Page built with HTML and CSS. It includes a sidebar, p
 
 ## Screenshot
 
-![Insta-screenshot](https://github.com/user-attachments/assets/2f9de9b7-8f52-4a4a-aa6d-b59269ad7a88)
+![Insta-screenshot](https://github.com/user-attachments/assets/5a3503ad-51a6-46ff-91ae-f97916226041)
+
 
 
 
